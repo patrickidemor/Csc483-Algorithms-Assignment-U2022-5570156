@@ -4,7 +4,7 @@
 **Course:** CSC 483.1 - Algorithm Analysis and Design  
 **Session:** 2025/2026
 
----
+--
 
 ## Project Structure
 - `Product.java` - Product class with 5 attributes
